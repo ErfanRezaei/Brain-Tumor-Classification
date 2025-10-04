@@ -38,7 +38,8 @@ Note: It's highly recommended to use a virtual environment to keep project depen
 
 Download the dataset from [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri). From the downloaded files, place the Training/ and Testing/ folders into the root of the project directory.
 
-**4: Run the Notebooks**
+**4: Run the Notebooks:**
+
 This project contains two separate notebooks, one for each model. You can run them independently:
 
 - `Brain Tumor Classification (CNN).ipynb`
