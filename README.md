@@ -24,14 +24,14 @@ This project explores the classification of brain tumors from MRI images into fo
 
 **1. Clone the Repository:**
 First, clone the project from GitHub:
-
+```bash
 git clone [https://github.com/ErfanRezaei/Brain-Tumor-Classification.git](https://github.com/ErfanRezaei/Brain-Tumor-Classification.git)
 cd Brain-Tumor-Classification
-
+```
 **2. Install Dependencies:**
-
+```bash
 pip install -r requirements.txt
-
+```
 Note: It's highly recommended to use a virtual environment to keep project dependencies isolated.
 
 **3. Download the Dataset:**
