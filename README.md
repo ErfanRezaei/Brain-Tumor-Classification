@@ -48,6 +48,6 @@ This project contains two separate notebooks, one for each model. You can run th
 Launch Jupyter Notebook and open the desired file to start training and evaluation.
 
 ### Important Note on Model Performance:
-CNN Model: The Convolutional Neural Network (CNN) architecture achieves excellent performance, with an accuracy exceeding 90%. This is because CNNs are highly effective at extracting local features from images, making them well-suited for datasets of this size.
+**CNN Model:** The Convolutional Neural Network (CNN) architecture achieves excellent performance, with an accuracy exceeding 90%. This is because CNNs are highly effective at extracting local features from images, making them well-suited for datasets of this size.
 
-ViT (Vision Transformer) Model: Vision Transformers (ViT) are known to be "data-hungry," meaning they require a very large amount of data to be trained effectively. Since the dataset used in this project is relatively small, the ViT model struggles to learn the underlying patterns and, as a result, achieves lower accuracy compared to the CNN model. 
+**ViT (Vision Transformer) Model:** Vision Transformers (ViT) are known to be "data-hungry," meaning they require a very large amount of data to be trained effectively. Since the dataset used in this project is relatively small, the ViT model struggles to learn the underlying patterns and, as a result, achieves lower accuracy compared to the CNN model. 
